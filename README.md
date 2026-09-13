@@ -73,7 +73,7 @@ Este laboratorio tiene como objetivo que los estudiantes fortalezcan sus conocim
       Pista: Usa pi que ya está definido en Haskell.
 
    **Pregunta de reflexión:**
-      ¿Qué diferencias encuentras entre los tipos Int y Float?}
+      ¿Qué diferencias encuentras entre los tipos Int y Float?
 
 ---
 
@@ -155,13 +155,29 @@ Este laboratorio tiene como objetivo que los estudiantes fortalezcan sus conocim
 
 ## Ejercicio 5 - Expresiones Lambda
 
-1. Reescribe estas funciones usando lambda:
-
-   a. ``incrementarLista xs = map suma xs``
+1. Define las siguientes funciones lambda
    
-   b. ``filtrarPares xs = filter even xs``
+    a. Reciba un número y retorne su doble.
+    
+    b. Calcular el cubo de un número
+    
+    c. Dividir un número entre 2
+    
+    d. Determinar si un número es positivo
+    
+    e. Determinar si un número pertenece al intervalo [10, 20]
 
-   c. ``sumarTuplas xs = ...``
+2. Define las siguientes funciones lambda de dos argumentos
+
+    a. La suma de dos números
+    
+    b. La multiplicacion de dos números
+    
+    c. La potencia entre dos números
+    
+    d. El máximo entre dos números
+    
+    e. Una función que determine si dos números son iguales.
 
 ---
 
